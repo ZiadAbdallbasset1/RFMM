@@ -2,6 +2,8 @@
 This project applies RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior.
 RFM is a proven marketing technique that helps identify high-value customers, potential churn risks, and opportunities for targeted marketing campaigns.
 
+# Data Link: https://archive.ics.uci.edu/dataset/352/online+retail
+
 # Objectives
 Analyze customer purchase data using the RFM model.
 
